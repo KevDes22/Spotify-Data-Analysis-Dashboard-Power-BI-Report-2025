@@ -68,7 +68,7 @@ The report is structured across **5 interactive dashboard pages**, each targetin
 
 ### 📌 Page 1 — Artist Performance & Influence
 
-![Artist Performance Dashboard](./screenshots/page1.png)
+![Artist Performance Dashboard](https://github.com/KevDes22/Spotify-Data-Analysis-Dashboard-Power-BI-Report-2025/blob/main/Screenshot%202026-03-06%20211557.png)
 
 **Key Metrics:**
 
@@ -94,7 +94,7 @@ The report is structured across **5 interactive dashboard pages**, each targetin
 
 ### 📌 Page 2 — Overall Spotify Content Performance
 
-![Overall Content Performance](./screenshots/page2.png)
+![Overall Content Performance](https://github.com/KevDes22/Spotify-Data-Analysis-Dashboard-Power-BI-Report-2025/blob/main/Screenshot%202026-03-06%20211632.png)
 
 **KPI Summary:**
 
@@ -118,7 +118,7 @@ The report is structured across **5 interactive dashboard pages**, each targetin
 
 ### 📌 Page 3 — Genre-Based Insights
 
-![Genre-Based Insights](./screenshots/page3.png)
+![Genre-Based Insights](https://github.com/KevDes22/Spotify-Data-Analysis-Dashboard-Power-BI-Report-2025/blob/main/Screenshot%202026-03-06%20211654.png)
 
 **Findings:**
 
@@ -135,7 +135,7 @@ The report is structured across **5 interactive dashboard pages**, each targetin
 
 ### 📌 Page 4 — Album & Release Strategy Analysis
 
-![Album & Release Strategy](./screenshots/page4.png)
+![Album & Release Strategy](https://github.com/KevDes22/Spotify-Data-Analysis-Dashboard-Power-BI-Report-2025/blob/main/Screenshot%202026-03-06%20211710.png)
 
 **Album Type Breakdown:**
 
@@ -156,7 +156,7 @@ The report is structured across **5 interactive dashboard pages**, each targetin
 
 ### 📌 Page 5 — Time-Based Release Trends
 
-![Time-Based Release Trends](./screenshots/page5.png)
+![Time-Based Release Trends](https://github.com/KevDes22/Spotify-Data-Analysis-Dashboard-Power-BI-Report-2025/blob/main/Screenshot%202026-03-06%20211736.png)
 
 **Findings:**
 
@@ -225,30 +225,15 @@ Based on the findings across all five dashboard pages, the following strategic r
 
 ---
 
-## 📁 Repository Structure
 
-```
-📦 spotify-powerbi-dashboard
- ┣ 📂 screenshots
- ┃ ┣ 🖼️ page1.png
- ┃ ┣ 🖼️ page2.png
- ┃ ┣ 🖼️ page3.png
- ┃ ┣ 🖼️ page4.png
- ┃ ┗ 🖼️ page5.png
- ┣ 📊 Spotify_Dashboard.pbix
- ┣ 📄 README.md
- ┗ 📄 spotify_data.csv
-```
 
----
 
 ## 👤 Author
 
-**[Your Name]**
+**[Destiny Kevin]**
 Data Analyst | Power BI Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/destiny-kevin-0015861a4/)
 
 ---
 
